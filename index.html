@@ -1,0 +1,59 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de los Ordinales</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png" type="image/png">
+</head>
+<body>
+    <header><a href="https://axelcotongutierrez.github.io/learningmathematicas/">
+		<img src="https://axelcotongutierrez.github.io/learningmathematicas/assets/images//top.jpg" alt="Blog Mathematica" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+	  </a></header>
+      <h1>JUEGO DE LOS ORDINALES</h1>
+      <div id="options">
+        <span class="textosuperior">Elige la dificultad:
+            <br>
+            <label>
+                <input type="radio" name="difficulty" value="easy" checked> 1-10
+            </label>
+            <label>
+                <input type="radio" name="difficulty" value="medium" checked> 1-25
+            </label>
+            <label>
+                <input type="radio" name="difficulty" value="high" checked> 1-50
+            </label>
+            <label>
+                <input type="radio" name="difficulty" value="vhigh"> 1-100
+            </label>
+    </div>
+      <div class="container2">
+        <span class="textosuperior">
+<div id="question">
+             <span id="question-text"></div></span></div>
+
+<div class="container">
+
+      
+<div id="answer">
+
+    <div id="options-container" class="options-container"></div>
+   
+   
+</div>
+<div id="answer">
+    <div id="options-container"></div>
+    
+    <button class="guess-button" id="next-question" onclick="nextQuestion()">Siguiente Pregunta</button>
+   <br>
+   <br>
+    <div id="result"></div>
+</div>
+
+</div>
+    <script src="script.js"></script>
+
+    <br><br><br><br>
+
+</body>
+</html>
