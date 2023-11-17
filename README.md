@@ -1,7 +1,7 @@
 # Juego para aprender los números ordinales
 
 
-![Juego de los Números Ordinales](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/05JSND/J02SND.jpg)
+![Juego de los Números Ordinales](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/005JOC/J01OC.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
