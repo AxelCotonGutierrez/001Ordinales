@@ -21,4 +21,4 @@ Nuestro juego está diseñado para adaptarse a tu nivel de habilidad. Hay cuatro
 
 Lo mejor de todo es que no hay límite en la cantidad de preguntas que puedes responder. Juega tanto como desees, hasta que te sientas completamente satisfecho o hasta que domines el nivel que necesitas.
 
-Así que, ¿estás listo para sumergirte en este desafío y convertirte en un experto en este juego. ¡Diviértete explorando, aprendiendo y superando tus propios límites! ¡El mundo de los números te espera!
+Así que, ¿estás listo para sumergirte en este desafío y convertirte en un experto en este juego? ¡Diviértete explorando, aprendiendo y superando tus propios límites! ¡El mundo de los números te espera!
