@@ -13,7 +13,7 @@ Puedes probar el juego en esta url:
 
 https://axelcotongutierrez.github.io/001Ordinales/
 
-¡Prepárate para una emocionante aventura de aprendizaje en nuestro juego sobre los números ordinales.
+¡Prepárate para una emocionante aventura de aprendizaje en nuestro juego sobre los números ordinales!
 
 En este desafío, tendrás la oportunidad de poner a prueba y mejorar tu dominio sobre el sistema numérico que utilizamos en la vida cotidiana. Se te harán una serie de preguntas donde tendrás que responder con precisión a la pregunta ¿Cómo se dice ... en números ordinales?
 
