@@ -11,7 +11,7 @@ Juego para Ingfantil, Primaria, ESO, ESPA o ESPAD para aprender los Ordinales
 
 Puedes probar el juego en esta url:
 
-https://github.com/AxelCotonGutierrez/Juego-de-las-Cifras
+https://axelcotongutierrez.github.io/001Ordinales/
 
 ¡Prepárate para una emocionante aventura de aprendizaje en nuestro juego sobre el Sistema de Numeración Decimal!
 
