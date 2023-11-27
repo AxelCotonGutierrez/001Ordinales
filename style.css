@@ -64,17 +64,6 @@ h1 {
     white-space: nowrap; /* Evita que el texto se divida en múltiples líneas */
   }
   
-  .guess-button2 {
-    background-color: #4285f4;
-    color: #fff;
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-top: 20px;
-    white-space: nowrap; /* Evita que el texto se divida en múltiples líneas */
-  }
   .textosuperior {
     font-size: 30px;
     justify-content: center;
@@ -102,15 +91,10 @@ h1 {
       cursor: pointer;
       margin-top: 20px;
       white-space: nowrap; /* Evita que el texto se divida en múltiples líneas */
-  
-      
       text-align: center;
-    
       margin-right: 10px; /* Espaciado entre botones */
       white-space: nowrap;
-     
-      box-sizing: border-box; /* Incluye el relleno y el borde en el ancho total */
-
+     box-sizing: border-box; /* Incluye el relleno y el borde en el ancho total */
   }
 
   #result {
@@ -118,4 +102,28 @@ h1 {
     font-size: 30px;
     margin-bottom: 20px;
     color: green;
+}
+
+@media only screen and (max-width: 768px) {
+  /* Estilos específicos para pantallas más pequeñas */
+  .container,
+  .container2 {
+    max-width: 80%; /* Ajusta el ancho máximo para pantallas más pequeñas */
+  }
+
+  .guess-button,
+  .options-container button {
+    font-size: 3vw; /* Ajusta el tamaño de fuente para pantallas más pequeñas */
+    padding: 3% 5%; /* Ajusta el relleno para pantallas más pequeñas */
+    margin-top: 5%; /* Ajusta el margen para pantallas más pequeñas */
+  }
+
+  .textosuperior {
+    font-size: 5vw; /* Ajusta el tamaño de fuente para pantallas más pequeñas */
+  }
+
+  #result {
+    font-size: 4vw; /* Ajusta el tamaño de fuente para pantallas más pequeñas */
+    margin-bottom: 3%; /* Ajusta el margen para pantallas más pequeñas */
+  }
 }
