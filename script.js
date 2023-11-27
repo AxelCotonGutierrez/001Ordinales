@@ -72,6 +72,22 @@ function toOrdinal(number) {
         return 'octavo';
     } else if (number === 9) {
         return 'noveno';
+    } else if (number >= 11 && number <= 19) {
+        const units = number % 10;
+
+        const specialNames = {
+            11: 'undécimo',
+            12: 'duodécimo',
+            13: 'decimotercero',
+            14: 'decimocuarto',
+            15: 'decimoquinto',
+            16: 'decimosexto',
+            17: 'decimoséptimo',
+            18: 'decimooctavo',
+            19: 'decimonoveno'
+        };
+
+        return specialNames[number];
     } else {
         const tens = Math.floor(number / 10) * 10;
         const units = number % 10;
